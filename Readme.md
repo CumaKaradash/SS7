@@ -1,7 +1,3 @@
-Bu, SS7 (Signaling System No. 7) protokolünü, hem temel kavramları hem de modern ağ entegrasyonu ile güvenlik konularını kapsayan, tüm kaynakların atıflandığı nihai teknik dokümandır.
-
----
-
 # Signaling System No. 7 (SS7) Protokolü
 
 ## Giriş
